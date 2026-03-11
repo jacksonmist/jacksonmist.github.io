@@ -1,0 +1,5 @@
+theme: pages-themes/midnight@v0.2.0
+title: Jackson Mistretta's Portfolio
+
+plugins:
+- jekyll-remote-theme
